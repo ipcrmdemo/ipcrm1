@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Ipcrm1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run
+		SpringApplication.run(Ipcrm1Application.class, args);
 	}
 }
