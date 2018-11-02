@@ -9,4 +9,4 @@ public class Ipcrm1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Ipcrm1Application.class, args);
 	}
-}
+
